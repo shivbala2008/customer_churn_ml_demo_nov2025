@@ -601,14 +601,7 @@ This is a training/demonstration project for educational purposes.
 
 ---
 
-## 👤 Author
-
-**Saravana Kumar and Arun Vijayarengan**  
-Date: November 2025
-
----
-
-## 📞 Support
+### 📞 Support
 
 For questions or issues:
 
